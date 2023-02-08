@@ -1,3 +1,5 @@
+## [Blog](https://towardsdatascience.com/training-xgboost-on-a-1tb-dataset-8790e2bc8672)
+
 ## XGBoost Distributed Training 1TB
 
 For this example we'll be scaling the [Abalone dataset](https://archive.ics.uci.edu/ml/datasets/abalone) to 1TB size and training the [SageMaker XGBoost algorithm](https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost.html) on it.
